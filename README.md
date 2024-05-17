@@ -3,8 +3,7 @@ This repository contains a GPT (Generative Pre-trained Transformer) model that i
 ## Features
 
 - Uses GPT model for generating responses
-- Keeps the model up to date with the latest information
-- Provides accurate and relevant information
+- Provides accurate and relevant information through the sampled use of Functions
 
 ## Usage
 
